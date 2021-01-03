@@ -1,3 +1,10 @@
+# Blueprint Laravel microservice project
+
+### App containers [Laravel, MySQL, Nginx]
+### Utility containers [Composer, Artisan]
+
+---
+
 ### Create laravel project
 ```
 docker-compose run --rm composer create-project --prefer-dist laravel/laravel .
